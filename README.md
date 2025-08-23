@@ -18,11 +18,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- 1. Resource Group & Virtual Machine
+- 2. Remote Desktop
+- 3. Osticket-Installation-Files.Zip
+- 4. IIS (Information Internet Services)
+- 5. PHP Manager for IIS, ost-config, & Heidi SQL
 
 <h2>Installation Steps</h2>
 
