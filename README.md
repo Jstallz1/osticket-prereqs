@@ -51,8 +51,8 @@ I then installed the database & foundation for osTicket to be ran properly. PHP 
 </p>
 <br />
 
-![prereq 1](https://github.com/user-attachments/assets/b94564a8-011d-4d80-9845-01af82f3b34c)
-  
+![pre req 4](https://github.com/user-attachments/assets/4e6dda79-ceb7-432c-a6f2-10b2498a3439)
+
 <p>
 I continued the installation process by enabling 3 extensions on the PHP Manager in IIS & assigning permissions for ost-config
 <p>
