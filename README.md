@@ -37,38 +37,30 @@ I created a Windows 10 Virtual Machine on Microsoft Azure & placed it inside of 
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![prereq 1](https://github.com/user-attachments/assets/b94564a8-011d-4d80-9845-01af82f3b34c)
+  
 <p>
 On my Virtual Machine I then downloaded Osticket-Installation-Files.Zip & Installed/Enabled IIS (Information Internet Services) in Windows.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![prereq 1](https://github.com/user-attachments/assets/b94564a8-011d-4d80-9845-01af82f3b34c)
+  
 <p>
 I then installed the database & foundation for osTicket to be ran properly. PHP Manager for IIS, the Rewrite Module, VC_redist.x86.exe, & MySQL 5.5.62 were the 4 installations needed to begin. 
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![prereq 1](https://github.com/user-attachments/assets/b94564a8-011d-4d80-9845-01af82f3b34c)
+  
 <p>
 I continued the installation process by enabling 3 extensions on the PHP Manager in IIS & assigning permissions for ost-config
 <p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![prereq 1](https://github.com/user-attachments/assets/b94564a8-011d-4d80-9845-01af82f3b34c)
+  
 <p>
 Lastly, I successfully installed osTicket & Heidi SQL to execute the data per sessions from my own helpdesk.
 <p>
 <br />
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
