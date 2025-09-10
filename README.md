@@ -22,7 +22,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - 2. Remote Desktop
 - 3. Osticket-Installation-Files.Zip
 - 4. IIS (Information Internet Services)
-- 5. PHP Manager for IIS, ost-config, & Heidi SQL
+- 5. PHP Manager & Rewrite Module for IIS
+- 6. VC & MySQL
+- 7. Heidi SQL
+- 8. OsTicket
 
 <h2>Installation Steps</h2>
 
@@ -57,14 +60,14 @@ From the “osTicket-Installation-Files” folder, I installed PHP Manager for I
 ![iis](https://github.com/user-attachments/assets/455d9405-d422-46b1-a1d3-c84729c15d7e)
 
 <p>
-From the “osTicket-Installation-Files” folder I installed the Rewrite Module (rewrite_amd64_en-US.msi)
+From the “osTicket-Installation-Files” folder I installed the Rewrite Module (rewrite_amd64_en-US.msi) & created the directory C:\PHP
 </p>
 <br />
 
 ![pre req3](https://github.com/user-attachments/assets/66141dd5-490a-43af-9f0d-6733261067f7)
   
 <p>
-I installed MySQL 5.5.62 (mysql-5.5.62-win32.msi) Typical Setup -> Launch Configuration Wizard (after install) -> Standard Configuration -> Username & Password
+From the “osTicket-Installation-Files” folder, I installed VC_redist.x86.exe. & MySQL 5.5.62 (mysql-5.5.62-win32.msi) Typical Setup -> Launch Configuration Wizard (after install) -> Standard Configuration -> Username & Password
 </p>
 <br />
 
@@ -107,6 +110,6 @@ I successfully installed osTicket & Heidi SQL was connected to execute the data 
 <img width="1440" height="900" alt="final" src="https://github.com/user-attachments/assets/5877ef0d-2f7b-4dc9-9bc1-c4b3d640c4ea" />
   
 <p>
-I created a Windows 10 Virtual Machine on Microsoft Azure & placed it inside of the Resource Group that I also created.
+OsTicket Helpdesk is all set up & ready for use!
 </p>
 <br />
