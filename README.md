@@ -47,10 +47,17 @@ I Installed & Enabled IIS in Windows WITH CGI in the 'World Wide Web Services' &
 </p>
 <br />
 
-
+![P](https://github.com/user-attachments/assets/8861ebae-3f60-4c4f-ad09-ba912c45b540)
 
 <p>
-From the “osTicket-Installation-Files” folder, install VC_redist.x86.exe.
+From the “osTicket-Installation-Files” folder, I installed PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
+</p>
+<br />
+
+![iis](https://github.com/user-attachments/assets/455d9405-d422-46b1-a1d3-c84729c15d7e)
+
+<p>
+From the “osTicket-Installation-Files” folder I installed the Rewrite Module (rewrite_amd64_en-US.msi)
 </p>
 <br />
 
