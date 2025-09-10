@@ -33,6 +33,41 @@ I created a Windows 10 Virtual Machine on Microsoft Azure & placed it inside of 
 </p>
 <br />
 
+![prereq 1](https://github.com/user-attachments/assets/b94564a8-011d-4d80-9845-01af82f3b34c)
+  
+<p>
+I created a Windows 10 Virtual Machine on Microsoft Azure & placed it inside of the Resource Group that I also created.
+</p>
+<br />
+
+![cgi](https://github.com/user-attachments/assets/9c1ba6db-fd7e-4547-b0ae-745bf8bf34cd)
+  
+<p>
+I Installed & Enabled IIS in Windows WITH CGI in the 'World Wide Web Services' section.
+</p>
+<br />
+
+![prereq 1](https://github.com/user-attachments/assets/b94564a8-011d-4d80-9845-01af82f3b34c)
+  
+<p>
+I created a Windows 10 Virtual Machine on Microsoft Azure & placed it inside of the Resource Group that I also created.
+</p>
+<br />
+
+![prereq 1](https://github.com/user-attachments/assets/b94564a8-011d-4d80-9845-01af82f3b34c)
+  
+<p>
+I created a Windows 10 Virtual Machine on Microsoft Azure & placed it inside of the Resource Group that I also created.
+</p>
+<br />
+
+![prereq 1](https://github.com/user-attachments/assets/b94564a8-011d-4d80-9845-01af82f3b34c)
+  
+<p>
+I created a Windows 10 Virtual Machine on Microsoft Azure & placed it inside of the Resource Group that I also created.
+</p>
+<br />
+
 ![pre req 2](https://github.com/user-attachments/assets/ba6e0cf8-90ca-44d3-a02f-64c717147748)
 
 <p>
@@ -59,4 +94,11 @@ I continued the installation process by enabling 3 extensions on the PHP Manager
 <p>
 Lastly, I successfully installed osTicket & Heidi SQL to execute the data per sessions from my own helpdesk.
 <p>
+<br />
+
+![prereq 1](https://github.com/user-attachments/assets/b94564a8-011d-4d80-9845-01af82f3b34c)
+  
+<p>
+I created a Windows 10 Virtual Machine on Microsoft Azure & placed it inside of the Resource Group that I also created.
+</p>
 <br />
