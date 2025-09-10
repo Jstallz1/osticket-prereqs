@@ -54,22 +54,6 @@ I created a Windows 10 Virtual Machine on Microsoft Azure & placed it inside of 
 </p>
 <br />
 
-![prereq 1](https://github.com/user-attachments/assets/b94564a8-011d-4d80-9845-01af82f3b34c)
-  
-<p>
-I created a Windows 10 Virtual Machine on Microsoft Azure & placed it inside of the Resource Group that I also created.
-</p>
-<br />
-  
-<p>
-I created a Windows 10 Virtual Machine on Microsoft Azure & placed it inside of the Resource Group that I also created.
-</p>
-<br />
-
-![Screenshot 2025-09-10 at 4 54 38 PM](https://github.com/user-attachments/assets/d718cbe9-9f3d-41b9-871a-33fd653c4ea5)
-![Screenshot 2025-09-10 at 4 54 25 PM](https://github.com/user-attachments/assets/97fdf650-e68a-49d6-8201-9ce6eb993592)
-
-
 ![pre req3](https://github.com/user-attachments/assets/66141dd5-490a-43af-9f0d-6733261067f7)
   
 <p>
@@ -84,10 +68,39 @@ I continued the installation process by enabling 3 extensions on the PHP Manager
 <p>
 <br />
 
+![Screenshot 2025-09-10 at 5 14 05 PM](https://github.com/user-attachments/assets/95d3ee63-97e7-483d-83d4-3c060cc0062f)
+
+<p>
+In IIS, PHP Manager, I Enabled the extensions.. php_imap.dll, php_intl.dll, & php_opcache.dll
+
+</p>
+<br />
+
+![ost config](https://github.com/user-attachments/assets/57117d2f-c21e-467c-8da5-62af563d4087)
+
+<p>
+From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php To: C:\inetpub\wwwroot\osTicket\include\ost-config.php, I Assigned Permissions: ost-config.php then disabled inheritance -> Remove All, New Permissions -> Everyone -> All. 
+</p>
+<br />
+
+![heide](https://github.com/user-attachments/assets/78ad084e-dadb-42e7-bcd6-58884d26a638)
+
+<p>
+From the “osTicket-Installation-Files” folder, I installed HeidiSQL. Created & Connected a new session called “osTicket”
+</p>
+<br />
+
+![installer](https://github.com/user-attachments/assets/6533421f-163c-44e9-98db-92d93b43cfea)
+
+<p>
+I continued setting up & naming my osTicket Helpdesk in the browser, Inputting the MySQL Database, Username, Password & All Osticket Admin Information. 
+<p>
+<br />
+
 ![pre req 5](https://github.com/user-attachments/assets/8df983d7-dc8f-429d-abb2-23a4639f302f)
   
 <p>
-Lastly, I successfully installed osTicket & Heidi SQL to execute the data per sessions from my own helpdesk.
+I successfully installed osTicket & Heidi SQL was connected to execute the data per sessions from my own helpdesk.
 <p>
 <br />
 
